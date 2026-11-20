@@ -6,7 +6,6 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "index.js",
   "scripts": {
     "build": "parcel build src/index.html src/collections.html src/membership.html src/services.html src/contact.html --dist-dir dist --public-url ./"
   },
